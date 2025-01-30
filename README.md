@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
