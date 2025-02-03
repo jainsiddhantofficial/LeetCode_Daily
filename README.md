@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0046-permutations) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Backtracking
 |  |
 | ------- |
