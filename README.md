@@ -65,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0013-roman-to-integer) |
+| [0072-edit-distance](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
