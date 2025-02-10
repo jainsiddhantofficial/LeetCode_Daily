@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0072-edit-distance) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
