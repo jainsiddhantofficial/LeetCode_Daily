@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0064-minimum-path-sum) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Backtracking
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## String
 |  |
 | ------- |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3447-clear-digits) |
+## Sorting
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
