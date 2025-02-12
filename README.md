@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0072-edit-distance) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
