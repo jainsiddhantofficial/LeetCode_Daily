@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0069-sqrtx) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1477-product-of-the-last-k-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0046-permutations) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
 |  |
 | ------- |
