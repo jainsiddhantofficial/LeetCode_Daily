@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0043-multiply-strings) |
 | [0069-sqrtx](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0069-sqrtx) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0072-edit-distance) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0043-multiply-strings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3447-clear-digits) |
