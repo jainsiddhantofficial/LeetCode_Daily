@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0069-sqrtx) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0050-powx-n) |
 ## Breadth-First Search
 |  |
 | ------- |
