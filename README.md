@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Number Theory
