@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0079-word-search) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0079-word-search) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 ## Matrix
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0079-word-search) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [3227-find-missing-and-repeated-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
