@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
