@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0091-decode-ways) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0091-decode-ways) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
