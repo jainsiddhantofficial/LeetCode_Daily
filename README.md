@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0908-middle-of-the-linked-list) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3430-count-days-without-meetings) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
