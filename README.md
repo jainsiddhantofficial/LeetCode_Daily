@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0169-majority-element) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0169-majority-element) |
 ## Hash Table
@@ -324,4 +326,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3001-apply-operations-to-maximize-score) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
