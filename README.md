@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0126-word-ladder-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
