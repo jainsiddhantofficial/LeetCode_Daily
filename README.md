@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Backtracking
 |  |
 | ------- |
