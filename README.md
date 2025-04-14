@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
