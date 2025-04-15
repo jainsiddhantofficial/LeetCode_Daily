@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [2793-count-the-number-of-complete-components](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2793-count-the-number-of-complete-components) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Combinatorics
 |  |
