@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0172-factorial-trailing-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0412-fizz-buzz) |
+| [0479-largest-palindrome-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0479-largest-palindrome-product) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0479-largest-palindrome-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0479-largest-palindrome-product) |
 | [1656-count-good-triplets](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3548-find-the-count-of-good-integers) |
