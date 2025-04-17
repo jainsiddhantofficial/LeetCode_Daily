@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
+| [1873-longest-nice-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1873-longest-nice-substring) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2280-count-good-triplets-in-an-array) |
 ## Hash Table
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
 | [1775-design-an-ordered-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1775-design-an-ordered-stream) |
+| [1873-longest-nice-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1873-longest-nice-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1873-longest-nice-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1873-longest-nice-substring) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Two Pointers
 |  |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
+| [1873-longest-nice-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Topological Sort
 |  |
