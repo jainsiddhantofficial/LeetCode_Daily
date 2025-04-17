@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2280-count-good-triplets-in-an-array) |
 ## Hash Table
 |  |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Topological Sort
 |  |
