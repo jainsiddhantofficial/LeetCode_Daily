@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0126-word-ladder-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0126-word-ladder-ii) |
+| [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0605-can-place-flowers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0605-can-place-flowers) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [2793-count-the-number-of-complete-components](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2793-count-the-number-of-complete-components) |
@@ -268,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0316-remove-duplicate-letters) |
+| [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -431,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
