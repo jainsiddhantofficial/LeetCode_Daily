@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
+| [1500-count-largest-group](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1500-count-largest-group) |
 | [1775-design-an-ordered-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1775-design-an-ordered-stream) |
 | [1873-longest-nice-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
