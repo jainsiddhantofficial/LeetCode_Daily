@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0229-majority-element-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
