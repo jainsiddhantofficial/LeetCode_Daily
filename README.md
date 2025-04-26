@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2665-minimum-time-to-repair-cars) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1873-longest-nice-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1873-longest-nice-substring) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Two Pointers
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0969-number-of-recent-calls) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Quickselect
 |  |
 | ------- |
@@ -565,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0139-word-break) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
