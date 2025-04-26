@@ -1,14 +1,24 @@
 class Solution {
     public long countInterestingSubarrays(List<Integer> nums, int modulo, int k) {
-        Map<Integer, Integer> cnt = new HashMap<>();
-        cnt.put(0, 1);
-        long res = 0;
-        int prefix = 0;
-        for (int num : nums) {
-            if (num % modulo == k) prefix++;
-            res += cnt.getOrDefault((prefix - k + modulo) % modulo, 0);
-            cnt.put(prefix % modulo, cnt.getOrDefault(prefix % modulo, 0) + 1);
+        int n = nums.size();
+        Map<Integer, Long> mp = new HashMap<>(); // remainder -> count
+        long sum = 0;
+        long result = 0;
+
+        mp.put(0, 1L);
+
+        for (int i = 0; i < n; i++) {
+            if (nums.get(i) % modulo == k) {
+                sum += 1;
+            }
+
+            int r1 = (int)(sum % modulo);
+            int r2 = (r1 - k + modulo) % modulo;
+
+            result += mp.getOrDefault(r2, 0L);
+            mp.put(r1, mp.getOrDefault(r1, 0L) + 1);
         }
-        return res;
+
+        return result;
     }
 }
