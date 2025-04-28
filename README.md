@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0198-house-robber) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
