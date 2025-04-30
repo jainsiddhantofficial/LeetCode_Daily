@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0139-word-break) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0126-word-ladder-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0166-fraction-to-recurring-decimal) |
