@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0139-word-break) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0908-middle-of-the-linked-list) |
