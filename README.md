@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0479-largest-palindrome-product) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0229-majority-element-ii) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
