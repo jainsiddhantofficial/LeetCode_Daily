@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3430-count-days-without-meetings) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Counting
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3001-apply-operations-to-maximize-score) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
 | [1873-longest-nice-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1873-longest-nice-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Topological Sort
 |  |
 | ------- |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Monotonic Stack
 |  |
@@ -577,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0988-flip-equivalent-binary-trees) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search Tree
 |  |
 | ------- |
