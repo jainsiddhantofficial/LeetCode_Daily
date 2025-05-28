@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0212-word-search-ii) |
+| [0257-binary-tree-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0171-excel-sheet-column-number) |
 | [0212-word-search-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0316-remove-duplicate-letters) |
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0409-longest-palindrome) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0988-flip-equivalent-binary-trees) |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0988-flip-equivalent-binary-trees) |
