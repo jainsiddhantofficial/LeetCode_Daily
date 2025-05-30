@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [2793-count-the-number-of-complete-components](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2793-count-the-number-of-complete-components) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0988-flip-equivalent-binary-trees) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3386-find-edges-in-shortest-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3386-find-edges-in-shortest-paths) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
