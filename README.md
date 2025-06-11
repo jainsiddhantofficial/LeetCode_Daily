@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Dynamic Programming
 |  |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2915-count-of-interesting-subarrays) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
 | ------- |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Binary Indexed Tree
 |  |
