@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0284-peeking-iterator](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0355-design-twitter](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0355-design-twitter) |
@@ -727,4 +729,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0374-guess-number-higher-or-lower) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
