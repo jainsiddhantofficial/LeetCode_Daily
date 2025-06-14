@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0404-sum-of-left-leaves) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
+| [0404-sum-of-left-leaves](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0988-flip-equivalent-binary-trees) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0988-flip-equivalent-binary-trees) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0988-flip-equivalent-binary-trees) |
