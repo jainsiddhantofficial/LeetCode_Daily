@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3548-find-the-count-of-good-integers) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3548-find-the-count-of-good-integers) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
