@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3001-apply-operations-to-maximize-score) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Monotonic Stack
