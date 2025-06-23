@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0130-surrounded-regions) |
 | [0226-invert-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0226-invert-binary-tree) |
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0139-word-break) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0151-reverse-words-in-a-string) |
