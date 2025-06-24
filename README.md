@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0303-range-sum-query-immutable) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0594-longest-harmonious-subsequence) |
@@ -792,4 +794,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0460-lfu-cache) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
