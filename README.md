@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -777,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0139-word-break) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Monotonic Queue
 |  |
 | ------- |
