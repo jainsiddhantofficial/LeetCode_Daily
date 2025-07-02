@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3447-clear-digits) |
 | [3617-find-the-original-typed-string-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Counting
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2915-count-of-interesting-subarrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2915-count-of-interesting-subarrays) |
+| [3618-find-the-original-typed-string-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
