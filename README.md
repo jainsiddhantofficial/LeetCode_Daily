@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0299-bulls-and-cows) |
+| [0306-additive-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0345-reverse-vowels-of-a-string) |
