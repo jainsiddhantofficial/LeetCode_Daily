@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0227-basic-calculator-ii) |
+| [0313-super-ugly-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0479-largest-palindrome-product) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0284-peeking-iterator](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0304-range-sum-query-2d-immutable) |
+| [0313-super-ugly-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0313-super-ugly-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0221-maximal-square) |
+| [0313-super-ugly-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0392-is-subsequence) |
