@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0283-move-zeroes) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0401-binary-watch) |
