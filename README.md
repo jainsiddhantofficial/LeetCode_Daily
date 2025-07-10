@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0307-range-sum-query-mutable) |
 | [0313-super-ugly-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0313-super-ugly-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0797-rabbits-in-forest) |
