@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0441-arranging-coins) |
 | [0479-largest-palindrome-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0479-largest-palindrome-product) |
 | [0797-rabbits-in-forest](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0797-rabbits-in-forest) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0441-arranging-coins) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2665-minimum-time-to-repair-cars) |
