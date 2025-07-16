@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0643-maximum-average-subarray-i) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0355-design-twitter) |
 | [0480-sliding-window-median](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0480-sliding-window-median) |
+| [0506-relative-ranks](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
