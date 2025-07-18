@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2588-maximum-number-of-points-from-grid-queries) |
