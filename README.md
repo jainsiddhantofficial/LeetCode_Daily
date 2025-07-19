@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0284-peeking-iterator) |
+| [0289-game-of-life](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0307-range-sum-query-mutable) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0304-range-sum-query-2d-immutable) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0415-add-strings) |
 | [1708-design-parking-system](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1708-design-parking-system) |
