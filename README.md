@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2793-count-the-number-of-complete-components) |
 | [3386-find-edges-in-shortest-paths](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3386-find-edges-in-shortest-paths) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3856-maximum-weighted-k-edge-path) |
 ## Array
 |  |
 | ------- |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3856-maximum-weighted-k-edge-path) |
 ## String
 |  |
 | ------- |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3856-maximum-weighted-k-edge-path) |
 ## Counting
 |  |
 | ------- |
