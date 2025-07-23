@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0441-arranging-coins) |
+| [0447-number-of-boomerangs](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0447-number-of-boomerangs) |
 | [0479-largest-palindrome-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0479-largest-palindrome-product) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0797-rabbits-in-forest) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0416-partition-equal-subset-sum) |
+| [0447-number-of-boomerangs](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0409-longest-palindrome) |
+| [0447-number-of-boomerangs](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0447-number-of-boomerangs) |
 | [0460-lfu-cache](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
