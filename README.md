@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Backtracking
 |  |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3856-maximum-weighted-k-edge-path) |
 ## String
 |  |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Monotonic Stack
 |  |
