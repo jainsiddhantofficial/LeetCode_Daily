@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Backtracking
 |  |
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2915-count-of-interesting-subarrays) |
 | [3618-find-the-original-typed-string-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Trie
 |  |
 | ------- |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3793-longest-palindrome-after-substring-concatenation-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3793-longest-palindrome-after-substring-concatenation-i) |
 ## Binary Indexed Tree
 |  |
@@ -963,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0307-range-sum-query-mutable) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Ordered Set
 |  |
 | ------- |
