@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1656-count-good-triplets) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1775-design-an-ordered-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1775-design-an-ordered-stream) |
 | [1813-maximum-erasure-value](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0441-arranging-coins) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2665-minimum-time-to-repair-cars) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0941-sort-array-by-parity) |
+| [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
