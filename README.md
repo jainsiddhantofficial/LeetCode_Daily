@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0313-super-ugly-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0415-add-strings) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0747-min-cost-climbing-stairs) |
@@ -1045,4 +1047,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1764-maximum-repeating-substring) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
