@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0479-largest-palindrome-product) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0826-soup-servings) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0747-min-cost-climbing-stairs) |
+| [0826-soup-servings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0826-soup-servings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1236-n-th-tribonacci-number) |
@@ -1078,4 +1080,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
