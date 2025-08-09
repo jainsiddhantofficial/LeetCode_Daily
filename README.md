@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [0313-super-ugly-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1013-fibonacci-number) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0389-find-the-difference) |
