@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0797-rabbits-in-forest](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1039-find-the-town-judge](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1039-find-the-town-judge) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [0900-reordered-power-of-2](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0941-sort-array-by-parity) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -994,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0479-largest-palindrome-product) |
+| [0900-reordered-power-of-2](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2140-longest-subsequence-repeated-k-times) |
