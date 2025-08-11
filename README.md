@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0447-number-of-boomerangs](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0447-number-of-boomerangs) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0485-max-consecutive-ones) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0414-third-maximum-number) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0594-longest-harmonious-subsequence) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0409-longest-palindrome) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0624-maximum-distance-in-arrays) |
