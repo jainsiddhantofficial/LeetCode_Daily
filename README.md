@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0441-arranging-coins) |
 | [0447-number-of-boomerangs](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0447-number-of-boomerangs) |
 | [0479-largest-palindrome-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0479-largest-palindrome-product) |
+| [0553-optimal-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0826-soup-servings) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0506-relative-ranks) |
+| [0553-optimal-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0553-optimal-division) |
 | [0594-longest-harmonious-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0605-can-place-flowers) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0416-partition-equal-subset-sum) |
+| [0553-optimal-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0553-optimal-division) |
 | [0747-min-cost-climbing-stairs](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0826-soup-servings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
