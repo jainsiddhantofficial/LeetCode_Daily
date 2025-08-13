@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1021-distribute-coins-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0988-flip-equivalent-binary-trees) |
 | [1008-binary-tree-cameras](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1008-binary-tree-cameras) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
