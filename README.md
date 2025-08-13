@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0120-triangle) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0148-sort-list) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0128-longest-consecutive-sequence) |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -978,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0111-minimum-depth-of-binary-tree) |
