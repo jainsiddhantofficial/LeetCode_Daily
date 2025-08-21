@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0482-license-key-formatting) |
+| [0541-reverse-string-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0837-most-common-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0941-sort-array-by-parity) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2265-partition-array-according-to-given-pivot) |
