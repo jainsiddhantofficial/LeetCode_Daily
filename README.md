@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0404-sum-of-left-leaves) |
+| [0529-minesweeper](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0529-minesweeper) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0506-relative-ranks) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0529-minesweeper](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0529-minesweeper) |
 | [0553-optimal-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0553-optimal-division) |
 | [0594-longest-harmonious-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0529-minesweeper](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0529-minesweeper) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0304-range-sum-query-2d-immutable) |
+| [0529-minesweeper](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0529-minesweeper) |
 | [0854-making-a-large-island](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0854-making-a-large-island) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
