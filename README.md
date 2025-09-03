@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0412-fizz-buzz) |
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0376-wiggle-subsequence) |
+| [0402-remove-k-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0455-assign-cookies) |
@@ -997,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0496-next-greater-element-i) |
 | [1628-count-submatrices-with-all-ones](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3001-apply-operations-to-maximize-score) |
