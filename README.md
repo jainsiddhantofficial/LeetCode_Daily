@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0941-sort-array-by-parity) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1006-vowel-spellchecker](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1039-find-the-town-judge) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1293-three-consecutive-odds](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1293-three-consecutive-odds) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1006-vowel-spellchecker](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1364-tuple-with-same-product) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0837-most-common-word) |
+| [1006-vowel-spellchecker](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1006-vowel-spellchecker) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1160-letter-tile-possibilities) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1350-remove-sub-folders-from-the-filesystem) |
