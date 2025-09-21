@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1917-maximum-average-pass-ratio](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1917-maximum-average-pass-ratio) |
+| [2023-design-movie-rental-system](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2023-design-movie-rental-system) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1708-design-parking-system](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1708-design-parking-system) |
 | [1775-design-an-ordered-stream](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1775-design-an-ordered-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2023-design-movie-rental-system](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2023-design-movie-rental-system) |
 | [2678-design-graph-with-shortest-path-calculator](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2678-design-graph-with-shortest-path-calculator) |
 | [3678-design-task-manager](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3797-design-spreadsheet) |
@@ -1157,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2023-design-movie-rental-system](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2023-design-movie-rental-system) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/2280-count-good-triplets-in-an-array) |
 | [3678-design-task-manager](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/jainsiddhantofficial/LeetCode_Daily/tree/master/3790-fruits-into-baskets-ii) |
